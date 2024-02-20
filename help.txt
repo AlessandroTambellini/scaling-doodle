@@ -1,0 +1,14 @@
+COMMANDS for the client:
+    - greet: just for testing connection
+    - code: start coding session
+    - print: print the program written so far
+    - clear: 
+        - if used during coding session, it clears the program written so far
+        - if used in the terminal, it clears all req sent and res received 
+    - exec: execute the program
+    - end: end coding session
+    - close: close connection
+
+INFO:
+    - max req length: 253
+
